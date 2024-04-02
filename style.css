@@ -1,0 +1,35 @@
+body{
+    margin-left: 24pt;
+    margin-right: 24pt;
+    color: black;
+    font-family: Verdana;
+    font-size: 11pt;
+}
+
+.disclaimer{
+    color: darkslategray;
+    font-style: italic;
+    font-size: 9pt;
+    text-align: right;
+}
+
+h2{
+    color: orangered;
+    font-family: Verdana;
+    font-size: 14pt;
+    align-content: center;
+    text-align: center;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}    
+ 
+td, thead{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    
+}
+    
